@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+printf("\n Enter the string:");
+scanf("%s",str);
+printf("\n after the string is reversed":%s strrev(str));
+return 0;
+}

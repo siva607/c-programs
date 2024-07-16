@@ -2,8 +2,9 @@
 #include<string.h>
 int main()
 {
-printf("\n Enter the string:");
+char str[40];
+printf(" \nEnter the string to be reversed:");
 scanf("%s",str);
-printf("\n after the string is reversed":%s strrev(str));
+printf(" \nAfter the string is reversed:%s",strrev(str));
 return 0;
 }
